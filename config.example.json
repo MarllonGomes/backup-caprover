@@ -1,0 +1,25 @@
+{
+  "folderPath": "/var/lib/docker/volumes",
+  "selectedFilesName": "captain",
+  "dbs": [
+    {
+      "driver": "mysql",
+      "host": "127.0.0.1",
+      "port": "3306",
+      "dbname": "",
+      "user": "",
+      "password": ""
+    },
+    {
+      "driver": "mongodb",
+      "uri": "mongodb://localhost:27017",
+      "dbname": ""
+    }
+  ],
+  "aws": {
+    "endpoint": "",
+    "secretKey": "",
+    "accessKey": "",
+    "bucket": ""
+  }
+}
